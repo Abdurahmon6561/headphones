@@ -1,0 +1,28 @@
+<svg width="41" height="29" viewBox="0 0 41 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="41" height="29" fill="#E5E5E5"/>
+<g id="Frame 3" clip-path="url(#clip0_0_1)">
+<rect width="1619" height="4560" transform="translate(-1343 -53)" fill="white"/>
+<g id="Hero Area">
+<g id="Background">
+<rect id="Rectangle 3" x="-1343" y="-53" width="1619" height="850" fill="url(#paint0_linear_0_1)"/>
+</g>
+</g>
+<g id="Navegation">
+<g id="Group 58">
+<path id="Vector" d="M39.5007 10.334H10.334" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M39.5 2H2" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M39.5 18.666H2" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M39.5007 27H10.334" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="-1463.92" y1="855" x2="119.907" y2="34.8345" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF9292"/>
+<stop offset="1" stop-color="#DE5150"/>
+</linearGradient>
+<clipPath id="clip0_0_1">
+<rect width="1619" height="4560" fill="white" transform="translate(-1343 -53)"/>
+</clipPath>
+</defs>
+</svg>
